@@ -1,0 +1,37 @@
+body,html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#gora{
+    background-color: brown;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#lewakolumna{
+    background-color: aquamarine;
+    width: 25%;
+    height: 788px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+#środek{
+    background-color: rgb(5, 66, 46);
+    width: 50%;
+    height: 788px;
+    margin: 0px;
+
+    
+}
+#dol{
+    background-color: rgb(42, 165, 79);
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
